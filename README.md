@@ -1,6 +1,6 @@
-# hugo README
+# smart-hugo
 
-This is the README for your extension "hugo". After writing up a brief description, we recommend including the following sections.
+This extension provide a easy way to write your Hugo site.
 
 ## Features
 
@@ -24,8 +24,8 @@ For example:
 
 This extension contributes the following settings:
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+* `smart-hugo.enable`: enable/disable this extension
+* `smart-hugo.thing`: set to `blah` to do something
 
 ## Known Issues
 

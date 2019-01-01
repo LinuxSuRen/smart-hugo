@@ -53,5 +53,9 @@
 	},
 	"dependencies": {
 		"opn": "^4.0.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/LinuxSuRen/smart-hugo"
 	}
 }
