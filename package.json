@@ -2,6 +2,7 @@
 	"name": "smart-hugo",
 	"displayName": "Smart Hugo",
 	"description": "",
+	"publisher": "linuxsuren",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.30.0"
@@ -20,19 +21,19 @@
 		"commands": [
 			{
 				"command": "hugo.newPost",
-				"title": "New Post"
+				"title": "Smart: New Post"
 			},
 			{
 				"command": "hugo.server",
-				"title": "Hugo Server Watch"
+				"title": "Smart: Start Hugo Server"
 			},
 			{
 				"command": "hugo.stopServer",
-				"title": "Stop Hugo Server"
+				"title": "Smart: Stop Hugo Server"
 			},
 			{
 				"command": "hugo.build",
-				"title": "Build Hugo Site"
+				"title": "Smart: Build Hugo Site"
 			}
 		]
 	},
